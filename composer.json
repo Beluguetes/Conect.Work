@@ -1,0 +1,10 @@
+{
+    "name": "ifba/conectwork",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Conectwork\\": "app/"
+        }
+    },
+    "require": {}
+}
